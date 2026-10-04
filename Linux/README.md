@@ -81,3 +81,14 @@ sudo apt remove nginx
 * File searching and filtering
 * Package installation and removal
 * Basic Linux system administration
+
+## Screenshots
+
+### Linux Commands
+![Linux Commands](Screenshots/Linux-Commands.png)
+
+### Directory and File Management
+![Directory and File Management](Screenshots/Directory-Management.png)
+
+### Package Management
+![Package Management](Screenshots/Package-Management.png)
