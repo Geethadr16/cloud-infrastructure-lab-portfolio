@@ -188,3 +188,50 @@ Wireless Access Point
 - Wireless networking and WPA3 security
 - Network connectivity verification and troubleshooting
 - Enterprise network device functionality
+
+## Screenshots
+
+### Network Topology
+![Network Topology](Screenshots/Network-Topology-and-Ping.png)
+
+**Activities Demonstrated**
+
+- Network topology setup
+- Router, switch and access point connectivity
+- Basic network design
+
+---
+
+### Connectivity Testing
+![Connectivity Testing](Screenshots/Pinging-Output.png)
+
+**Activities Demonstrated**
+
+- Ping verification
+- Network reachability testing
+- Connectivity troubleshooting
+
+---
+
+### VLAN and Wireless Network Configuration
+![VLAN and Wireless Network Configuration](Screenshots/VLAN-and-SSID-Configuration.png)
+
+**Activities Demonstrated**
+
+- VLAN creation
+- Network segmentation
+- Inter-VLAN communication
+- SSID configuration
+- Wireless security implementation
+
+---
+
+### DHCP and DNS Configuration
+![DHCP and DNS Configuration](Screenshots/DHCP-DNS-Configuration.png)
+
+**Activities Demonstrated**
+
+- DHCP scope configuration
+- IP address allocation
+- DNS configuration
+- DHCP reservation concepts
