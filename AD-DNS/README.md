@@ -140,3 +140,26 @@ This structure supports easier administration and Group Policy management.
 * Understanding differences in DNS resolution behavior across Windows versions
 * Designing Active Directory OU structures
 * Organizing users and computers in Active Directory
+
+## Screenshots
+
+### DNS Server Installation
+![DNS Server Installation](Screenshots/DNS-Server-Installation.png)
+
+### Forward and Reverse Lookup Zones
+![Forward and Reverse Lookup Zones](Screenshots/Forward-Reverse-Lookup-Zones.png)
+
+### DNS Records
+![DNS Records](Screenshots/DNS-Records.png)
+
+### DNS Client Configuration
+![DNS Client Configuration](Screenshots/DNS-Client-Configuration.png)
+
+### NSLookup Verification
+![NSLookup Verification](Screenshots/NSLookup-Verification.png)
+
+### Active Directory OU Structure
+![Active Directory OU Structure](Screenshots/AD-OU-Structure.png)
+
+### Active Directory OU Hierarchy
+![Active Directory OU Hierarchy](Screenshots/AD-OU-inside%20Structure.png)
