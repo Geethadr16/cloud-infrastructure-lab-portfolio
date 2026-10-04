@@ -162,4 +162,4 @@ This structure supports easier administration and Group Policy management.
 ![Active Directory OU Structure](Screenshots/AD-OU-Structure.png)
 
 ### Active Directory OU Hierarchy
-![Active Directory OU Hierarchy](Screenshots/AD-OU-inside%20Structure.png)
+![Active Directory OU Hierarchy](Screenshots/AD-OU-inside-Structure.png)
