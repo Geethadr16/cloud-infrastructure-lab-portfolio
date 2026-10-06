@@ -152,3 +152,71 @@ Routing
 - Windows security management
 - WSUS administration
 - Enterprise infrastructure operations
+
+## Screenshots
+
+### User Account Management
+![User Account Management](Screenshots/User-Management.png)
+
+**Activities Demonstrated**
+
+- Local user account creation
+- Domain user account management
+- Active Directory user administration
+
+---
+
+### Password and Account Lockout Policies
+![Password and Account Lockout Policies](Screenshots/Password-and-Lockout-Policies.png)
+
+**Activities Demonstrated**
+
+- Password complexity policies
+- Password expiration settings
+- Account lockout configuration
+
+---
+
+### Performance Monitoring
+![Performance Monitoring](Screenshots/Performance-Monitoring.png)
+
+**Activities Demonstrated**
+
+- CPU monitoring
+- Memory monitoring
+- System performance analysis
+
+---
+
+### Event Viewer Monitoring
+![Event Viewer Monitoring](Screenshots/Event-Viewer.png)
+
+**Activities Demonstrated**
+
+- Security log monitoring
+- Application log analysis
+- System event monitoring
+
+---
+
+### Network Configuration
+![Network Configuration](Screenshots/Network-Configuration.png)
+
+**Activities Demonstrated**
+
+- NIC configuration
+- NIC teaming
+- Network redundancy concepts
+- TCP/IP configuration
+
+---
+
+### WSUS and Security Management
+![WSUS and Security Management](Screenshots/WSUS-console.png)
+
+**Activities Demonstrated**
+
+- Windows Server Update Services (WSUS)
+- Update management
+- Windows Firewall administration
+- Security policy configuration
