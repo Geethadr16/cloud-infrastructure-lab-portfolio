@@ -145,3 +145,72 @@ Hypervisor
 - VM templates and deployment
 - Snapshot and backup concepts
 - Virtualization and cloud infrastructure fundamentals
+
+## Screenshots
+
+### VMware ESXi Installation
+![VMware ESXi Installation](Screenshots/ESXi-Installation.png)
+
+**Activities Demonstrated**
+
+- VMware ESXi installation
+- Hypervisor deployment
+- Initial host setup and configuration
+
+---
+
+### Network Configuration
+![Network Configuration](Screenshots/Network-Configuration.png)
+
+**Activities Demonstrated**
+
+- Management network configuration
+- Static IP assignment
+- DNS and hostname configuration
+- Remote management preparation
+
+---
+
+### Datastore Configuration
+![Datastore Configuration](Screenshots/Datastore-Configuration.png)
+
+**Activities Demonstrated**
+
+- Datastore creation
+- Storage repository configuration
+- Storage resource management
+
+---
+
+### Virtual Machine Management
+![Virtual Machine Management](Screenshots/VM-Management.png)
+
+**Activities Demonstrated**
+
+- Virtual machine creation
+- Power ON/OFF operations
+- Remote console access
+- VM administration tasks
+
+---
+
+### VM Template Creation
+![VM Template Creation](Screenshots/VM-Template-Conversion.png)
+
+**Activities Demonstrated**
+
+- Virtual machine template creation
+- Standardized VM deployment preparation
+- Template-based provisioning concepts
+
+---
+
+### Snapshot Management
+![Snapshot Management](Screenshots/Snapshot-Management.png)
+
+**Activities Demonstrated**
+
+- Snapshot creation and management
+- VM backup concepts
+- Recovery point management
+- Virtual machine protection practices
