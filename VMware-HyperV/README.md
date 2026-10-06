@@ -26,6 +26,21 @@ This lab documents hands-on virtualization activities performed during infrastru
 - VM Backup and Recovery
 - Virtualization Concepts
 
+  ## Technologies Covered
+
+- VMware ESXi
+- VMware Host Client
+- Virtual Machines (VMs)
+- Datastores
+- VM Templates
+- VM Snapshots
+- Virtual Networking
+- User and Role Management
+- VM Deployment
+- VM Backup Concepts
+- vMotion (Conceptual)
+- Hypervisor Administration
+
 ---
 
 ## Assignment 1 – Hypervisor Installation
