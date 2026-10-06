@@ -107,3 +107,47 @@ JSON
 - CSV and JSON data handling
 - File processing automation
 - Basic scripting concepts
+
+## Screenshots
+
+### Get-Process and Get-Service
+![Get-Process and Get-Service](Screenshots/Get-Process-and-Get-Service.png)
+
+**Activities Demonstrated**
+
+- Process monitoring using Get-Process
+- Service monitoring using Get-Service
+- Basic PowerShell cmdlet usage
+
+---
+
+### Process Filtering Pipeline
+![Process Filtering Pipeline](Screenshots/Process-Filtering-Pipeline.png)
+
+**Activities Demonstrated**
+
+- PowerShell pipelines
+- Process filtering using Where-Object
+- CPU utilization analysis
+
+---
+
+### Aliases and Custom Alias Creation
+![Aliases and Custom Alias Creation](Screenshots/Aliases-and-Custom-Alias.png)
+
+**Activities Demonstrated**
+
+- Creating custom aliases
+- Viewing existing aliases
+- Simplifying frequently used commands
+
+---
+
+### CSV Export
+![CSV Export](Screenshots/CSV-Export.png)
+
+**Activities Demonstrated**
+
+- Exporting process information to CSV
+- Data collection and reporting
+- PowerShell file operations
