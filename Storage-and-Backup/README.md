@@ -196,3 +196,47 @@ Object Storage
 - Backup and recovery concepts
 - Disaster recovery planning
 - Data protection best practices
+
+## Screenshots
+
+### RAID Concepts
+![RAID Concepts](Screenshots/RAID-Concepts.png)
+
+**Activities Demonstrated**
+
+- Understanding RAID levels and storage redundancy
+- Storage performance and fault tolerance concepts
+- Enterprise storage fundamentals
+
+---
+
+### Brocade Switch Configuration
+![Brocade Switch Configuration](Screenshots/Brocade-Switch-Configuration.png)
+
+**Activities Demonstrated**
+
+- Brocade SAN switch management
+- Switch configuration and administration
+- Storage networking concepts
+
+---
+
+### Cisco SAN Configuration
+![Cisco SAN Configuration](Screenshots/Cisco-SAN-Configuration.png)
+
+**Activities Demonstrated**
+
+- Cisco SAN switch configuration
+- SAN management concepts
+- Enterprise storage infrastructure administration
+
+---
+
+### SAN Zoning Configuration
+![SAN Zoning Configuration](Screenshots/SAN-Zoning-Configuration.png)
+
+**Activities Demonstrated**
+
+- SAN zoning configuration
+- Host-to-storage access control
+- Storage security and connectivity management
