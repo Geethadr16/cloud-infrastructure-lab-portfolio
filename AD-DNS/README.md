@@ -27,6 +27,13 @@ The activities focused on Windows Server DNS configuration, DNS record managemen
 * Active Directory OU design
 * User and computer account organization
 
+## Technologies Used
+
+- Windows Server 2022
+- Active Directory
+- DNS
+- NSLookup
+
 ## Assignment 1 — Windows Server Administration Basics
 
 ### Task 1 — Install and Configure DNS Server Role
