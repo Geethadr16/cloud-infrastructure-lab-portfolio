@@ -25,14 +25,17 @@ The activities focused on Linux commands, file and directory management, permiss
 
 ## Assignment 1 - Linux Commands
 
-### Commands Practiced
+## Commands Practiced
 
-* mkdir
-* chmod
-* chown
-* grep
-* find
-
+- chmod
+- chown
+- grep
+- find
+- cp
+- mv
+- yum
+- rpm
+  
 ### Tasks Performed
 
 * Created personal project directories
