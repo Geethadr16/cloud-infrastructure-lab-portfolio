@@ -1,59 +1,85 @@
-# Cloud Infrastructure & IT Operations Portfolio
+# ☁️ Cloud Infrastructure Lab Portfolio
 
-## About Me
+## About
 
-Hi, I'm Geetha D R.
+This repository showcases hands-on infrastructure and cloud administration labs completed during CIS Multicloud Training at Cognizant.
 
-Former Engineer Trainee (CIS Multicloud) at Cognizant with training exposure to Cloud Infrastructure, Windows Administration, Linux Administration, Networking, Virtualization, Monitoring, and IT Operations.
+The portfolio covers:
 
-This repository documents my hands-on learning, lab activities, and practice exercises across various infrastructure technologies.
-
----
-
-## Technologies Covered
-
-* Active Directory (AD)
-* DNS Administration
-* Linux Administration
-* Windows Server Administration
-* VMware Virtualization
-* Hyper-V Virtualization
-* Networking Fundamentals
-* Monitoring & SCOM
-* Oracle DBA Basics
-* PowerShell Scripting
-* Storage & Backup Concepts
+- Linux Administration
+- Windows Server Administration
+- Active Directory & DNS
+- Networking Fundamentals
+- VMware ESXi Virtualization
+- PowerShell Automation
+- Storage & Backup Concepts
 
 ---
 
-## Learning Objectives
+## Skills Demonstrated
 
-* Build practical infrastructure administration skills
-* Strengthen troubleshooting capabilities
-* Practice system administration tasks
-* Document hands-on lab activities
-* Develop cloud and infrastructure support knowledge
+### Infrastructure
+
+- Windows Server 2022
+- Active Directory
+- DNS
+- DHCP
+- VMware ESXi
+- Storage & Backup
+
+### Operating Systems
+
+- Linux Administration
+- Windows Administration
+
+### Networking
+
+- TCP/IP
+- VLAN
+- LAN/WAN/WLAN
+- Routing
+- DHCP
+- DNS
+
+### Automation
+
+- PowerShell
+- System Administration
+
+---
+
+## Lab Portfolio
+
+| Lab | Skills |
+|------|---------|
+| AD-DNS | Active Directory, DNS |
+| Linux | Linux Administration |
+| Networking | TCP/IP, VLAN, DHCP |
+| VMware-HyperV | Virtualization |
+| Windows-Server | Windows Administration |
+| PowerShell | Automation |
+| Storage-and-Backup | SAN, RAID, Backup |
 
 ---
 
 ## Repository Structure
 
-This portfolio will contain separate sections for:
-
-* Active Directory Labs
-* DNS Labs
-* Linux Labs
-* Windows Server Labs
-* VMware Labs
-* Hyper-V Labs
-* Networking Labs
-* Monitoring & SCOM Labs
-* Oracle DBA Labs
-* PowerShell Labs
-* Storage & Backup Labs
+```text
+cloud-infrastructure-lab-portfolio
+│
+├── AD-DNS
+├── Linux
+├── Networking
+├── VMware-HyperV
+├── Windows-Server
+├── PowerShell
+└── Storage-and-Backup
+```
 
 ---
 
-## Current Status
+## Author
 
-Portfolio currently under development. New labs and documentation will be added regularly.
+Geetha D R
+
+Aspiring Cloud Support | Infrastructure Support | System Administration
